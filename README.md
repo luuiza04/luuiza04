@@ -7,8 +7,8 @@ Tenho interesse em **dados, banco de dados, infraestrutura e segurança da infor
 ## No momento
 
 - **Iniciação científica (DAL – CEFET/RJ):** comparo métricas clássicas (F1-Score, Precisão e Revocação) com uma abordagem baseada em lógica fuzzy na avaliação de detectores de anomalias em sequências. Próxima etapa: experimentos com o framework [Harbinger](https://github.com/cefet-rj-dal/harbinger) (R) e dados do repositório UniTED. O repositório da pesquisa é do laboratório e é privado.
-- **Disciplinas do semestre:** Java e Arquivos (em C).
-- **Planejando:** transformar um notebook antigo em um servidor Linux.
+- **Disciplinas de programação do semestre:** Java e Arquivos (em C).
+- **Planejando:** transformar um notebook antigo em um servidor Linux. Estudar linguagem R.
 
 ## Projetos e estudos
 
@@ -22,7 +22,6 @@ Tenho interesse em **dados, banco de dados, infraestrutura e segurança da infor
 - **Mais segurança:** C
 - **Estudando agora:** Java
 - **Já trabalhei com:** C++, Python, JavaScript, HTML, CSS, React, Node.js, Git
-- **Em breve:** R (na iniciação científica)
 
 ## Contato
 
